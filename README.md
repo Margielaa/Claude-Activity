@@ -19,7 +19,7 @@ It reads the records Claude Code already keeps in `~/.claude`. Nothing to instal
 You need [Node.js](https://nodejs.org) 18 or newer, and Claude Code installed and used at least once.
 
 ```
-git clone https://github.com/<you>/claude-activity.git
+git clone https://github.com/Margielaa/Claude-Activity.git
 cd claude-activity
 npm start
 ```
