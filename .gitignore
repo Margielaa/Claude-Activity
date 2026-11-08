@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+# Personal screenshots: check them for private paths and prompts before committing
+screenshots/private/

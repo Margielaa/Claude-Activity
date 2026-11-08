@@ -1,0 +1,30 @@
+{
+  "name": "claude-activity",
+  "version": "0.1.0",
+  "description": "A local, live dashboard for everything Claude Code does on your computer: activity, code changes, token usage, sessions, tools, MCP, memory and agents.",
+  "main": "server.js",
+  "bin": {
+    "claude-activity": "server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "dashboard",
+    "token-usage",
+    "developer-tools"
+  ],
+  "license": "MIT",
+  "files": [
+    "server.js",
+    "lib/",
+    "public/",
+    "README.md",
+    "LICENSE"
+  ]
+}
